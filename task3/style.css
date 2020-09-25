@@ -1,0 +1,140 @@
+body{
+	margin: 0px;
+	margin-top: -16px;  
+	color: white;
+	 
+}
+a{
+	color: white;
+	position: relative;
+	left: 10px;
+}
+
+
+.left-side{
+    border-color: black;
+    border-width: 3px;
+    border-style: solid;
+	background-color: #008B8B;
+	height: 740px;
+	width: 20%;
+}
+#var1{
+	text-align: center;
+	position: relative;
+	color: black;
+	left: 90px;
+	top: -85px;
+	width: 40%;
+	letter-spacing: 5px;
+	font-size: 25px;
+}
+#var2{
+	background-color: red;
+	color: yellow;
+	letter-spacing: 5px;
+	border:solid;
+	border-color: black;
+	position: relative;
+	text-align: center;
+	left: 88px;
+	width: 40%;
+	font-size: 25px;
+}
+#amazon{
+	height: 50px;
+	width: 122px;
+	position: relative;
+	top:-108px;
+	left: 88px;
+}
+#htmlbooks{
+	color: white;
+	font-size: 8px;
+	position: relative;
+	top: -100px;
+	left: -10px;
+
+}
+#var3{
+	color: white;
+	text-align: center;
+	position: relative;
+	top: -50px;
+
+}
+#srec{
+	position: relative;
+	left: 70px;
+	top: -60px;
+	border:ridge;
+	width: 50%;
+	height: 20px;
+	background-color: white;
+
+}
+#button-search{
+	color:white;
+	background-color: black;
+	border:outset;
+	width: 15%;
+	border-radius: 10%;
+	position: relative;
+	left: 120px;
+	top: -70px;
+}
+#site_map{
+	color: cyan;
+	position: relative;
+	left: 90px;
+	font-size: 30px;
+	top: -40px;
+    
+}
+#home_page{
+	color: white;
+	position: relative;
+	font-size:25px;
+	left: -90px;
+	top: 25px;
+
+}
+.right{
+	color: black;
+	font-size: 20px;
+	position: absolute;
+	height: 728px;
+	width: 80%;
+	left: 20.29%;
+	top: 0; 
+	padding-left:40px;
+}
+
+
+
+
+.webd{
+	color: grey;
+	font-size: 100px;
+	font-family: "Arial";
+	opacity: 70%;
+	position: relative;
+	top: -70px;
+
+}
+.itachi{
+	position: relative;
+	color:#008B8B;
+	top: -170px;
+	left: 400px;
+
+}
+.naruto{
+	width: 80%;
+	font-size: 20px;
+
+}
+
+
+
+
