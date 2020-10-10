@@ -1,0 +1,186 @@
+body{
+	margin: 0;
+	
+}
+.head{
+	display: flex;
+	background:#4169E1;
+	flex-wrap: nowrap;
+	justify-content: space-between;
+
+	
+}
+.icon{
+	flex: 2;
+
+	width: 55px;
+	height: 55px;
+	
+}
+.text{
+	position: relative;
+	top: 10px;
+	flex: 35;
+	width:100px;
+	height: 50px;
+	color: white;
+	font-size: 24px;
+	font-family: 'Quicksand', sans-serif;
+}
+.icon img{
+	
+	border-style:groove; 
+	border-radius: 100%;
+    border-width:0.5px;
+	width: 50px;
+	height: 50px;
+}
+.icons{
+	flex: 3;
+	
+}
+.icons img{
+	width: 50px;
+	height: 50px;
+
+}
+.i1{
+	display:flex;
+
+}
+.i1p1{
+	flex: 1;
+	position: relative;
+}
+.i1 img{
+	
+	width: 100%;
+	height: 800px;
+}
+.register{
+	font-family: 'Josefin Sans', sans-serif;
+	color: white;
+	position: relative;
+	font-size: 45px;
+	position: relative;
+	text-align: center;
+	top: -500px;
+
+}
+.textfields{
+	display: flex;
+	
+	justify-content:center; 
+
+}
+.textfield1{
+	width: 300px;
+	height: 50px;
+	margin-bottom:40px;
+	background:white;
+	text-align: center;
+	position: relative;
+	top: -400px; 
+	
+
+}
+.i2{
+	display: flex;
+	justify-content: center;
+}
+.i2E{
+	position: relative;
+	top: -100px;
+	font-family: 'Cabin', sans-serif;
+	color: #87CEEB;
+	text-transform: uppercase;
+	font-size: 25px;
+	margin: 15px;
+}
+.i3{
+	display: flex;
+	justify-content: center;
+
+
+}
+.i3 img{
+	width: 100px;
+	height: 100px;
+	margin-left:100px; 
+    margin-right:100px; 
+}
+#ini3{
+	position: relative;
+	left: 32%;
+	margin-top:10px; 
+	color: #87CEEB;
+	font-size: 35px;
+	font-family: 'Cabin', sans-serif;
+}
+
+.i5{
+	display: flex;
+	position: relative;
+    margin: 50px;
+	top: 150px;
+	flex-flow: column;
+	align-items:center;
+}
+
+
+.i5 img{
+    position: relative;
+    top: 50px;
+	width: 400px;
+	height: 300px;
+}
+.subjects{
+	position: relative;
+	top:70px;
+	color: #87CEEB;
+	font-family: 'Cabin', sans-serif;
+	font-size: 35px;
+ 
+}
+.i6{
+	position: relative;
+	top: 150px;
+	color: #87CEEB;
+	display: flex;
+	justify-content: center;
+
+	font-family: 'Cabin', sans-serif;
+	font-size: 35px;
+
+
+}
+
+.i4{
+	position: relative;	
+	top: 550px; 
+	display: flex;
+
+}
+.i4 img{
+	width: 100%;
+	height: 350px;
+	
+
+
+}.address{
+	position: relative;
+	top: -200px;
+	font-size: 25px;
+	color: white;
+	font-family: 'Cabin', sans-serif;
+	text-align: center;
+
+}
+.multibala{
+	position: relative;
+	top: -70px;
+	text-align: center;
+	font-family: 'Cabin', sans-serif;
+	color: white;
+
+}
